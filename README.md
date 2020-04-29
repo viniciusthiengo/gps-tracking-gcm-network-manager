@@ -2,7 +2,7 @@
 
 Projeto Java Android da segunda parte do artigo [GCMNetworkManager Para Execução de Tarefas no Background Android](https://www.thiengo.com.br/gcmnetworkmanager-para-execucao-de-tarefas-no-background-android#title-8) do Blog [Thiengo.com.br](https://www.thiengo.com.br).
 
-Artigo que discute em detalhes a API nativa GCMNetworkManager. API utilizada para processamentos em background, processamentos dentro das janelas de execuções do sistema Android quando em *Doze Mode*.
+Artigo que discute em detalhes a API nativa GCMNetworkManager. API utilizada para processamentos em background, processamentos dentro das janelas de execução do sistema Android quando em *Doze Mode*.
 
 <img src="https://www.thiengo.com.br/img/post/normal/s1gbuae6dk7mcgb42njg9en55091452b143a3a45ff19f411fbe1cc3904.jpg" width="220" alt="Tela principal do app Android de exemplo em teste">
 
